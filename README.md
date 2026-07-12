@@ -1,1 +1,1 @@
-# week-1-intership-task
+# ITsimplera intership tasks report
